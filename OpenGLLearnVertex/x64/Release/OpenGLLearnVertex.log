@@ -1,0 +1,10 @@
+﻿  main.cpp
+main.obj : error LNK2001: 无法解析的外部符号 __imp___glewEnableVertexAttribArray
+main.obj : error LNK2001: 无法解析的外部符号 __imp___glewVertexAttribPointer
+main.obj : error LNK2001: 无法解析的外部符号 __imp___glewBindBuffer
+main.obj : error LNK2001: 无法解析的外部符号 __imp_glewGetErrorString
+main.obj : error LNK2001: 无法解析的外部符号 __imp___glewBufferData
+main.obj : error LNK2001: 无法解析的外部符号 __imp___glewDisableVertexAttribArray
+main.obj : error LNK2001: 无法解析的外部符号 __imp___glewGenBuffers
+main.obj : error LNK2001: 无法解析的外部符号 __imp_glewInit
+H:\OpenGLPlace\MyProject\OpenGLLearn\x64\Release\OpenGLLearnVertex.exe : fatal error LNK1120: 8 个无法解析的外部命令

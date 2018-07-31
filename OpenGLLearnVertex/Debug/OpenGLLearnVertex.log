@@ -1,0 +1,10 @@
+﻿  main.cpp
+main.obj : error LNK2019: 无法解析的外部符号 __imp__glewInit@0，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 __imp__glewGetErrorString@4，该符号在函数 _main 中被引用
+main.obj : error LNK2001: 无法解析的外部符号 __imp____glewBindBuffer
+main.obj : error LNK2001: 无法解析的外部符号 __imp____glewBufferData
+main.obj : error LNK2001: 无法解析的外部符号 __imp____glewGenBuffers
+main.obj : error LNK2001: 无法解析的外部符号 __imp____glewDisableVertexAttribArray
+main.obj : error LNK2001: 无法解析的外部符号 __imp____glewEnableVertexAttribArray
+main.obj : error LNK2001: 无法解析的外部符号 __imp____glewVertexAttribPointer
+H:\OpenGLPlace\MyProject\OpenGLLearn\Debug\OpenGLLearnVertex.exe : fatal error LNK1120: 8 个无法解析的外部命令
