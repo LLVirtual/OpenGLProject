@@ -1,4 +1,1 @@
-﻿  main.cpp
-h:\openglplace\myproject\opengllearn\opengllearntriangleshader\main.cpp(85): warning C4267: “=”: 从“size_t”转换到“GLint”，可能丢失数据
-  OpenGLLearnTriangleShader.vcxproj -> H:\OpenGLPlace\MyProject\OpenGLLearn\x64\Debug\OpenGLLearnTriangleShader.exe
-  OpenGLLearnTriangleShader.vcxproj -> H:\OpenGLPlace\MyProject\OpenGLLearn\x64\Debug\OpenGLLearnTriangleShader.pdb (Full PDB)
+﻿

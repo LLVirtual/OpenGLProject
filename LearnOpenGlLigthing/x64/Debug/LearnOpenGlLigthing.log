@@ -1,0 +1,11 @@
+﻿  main.cpp
+h:\openglplace\myproject\opengllearn\learnopenglligthing\main.cpp(157): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+h:\openglplace\myproject\opengllearn\learnopenglligthing\main.cpp(251): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\openglplace\myproject\opengllearn\learnopenglligthing\main.cpp(252): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\openglplace\myproject\opengllearn\learnopenglligthing\main.cpp(256): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+h:\openglplace\myproject\opengllearn\learnopenglligthing\main.cpp(257): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+h:\openglplace\myproject\opengllearn\learnopenglligthing\main.cpp(259): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\openglplace\myproject\opengllearn\learnopenglligthing\main.cpp(260): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\openglplace\myproject\opengllearn\learnopenglligthing\main.cpp(269): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  LearnOpenGlLigthing.vcxproj -> H:\OpenGLPlace\MyProject\OpenGLLearn\x64\Debug\LearnOpenGlLigthing.exe
+  LearnOpenGlLigthing.vcxproj -> H:\OpenGLPlace\MyProject\OpenGLLearn\x64\Debug\LearnOpenGlLigthing.pdb (Full PDB)

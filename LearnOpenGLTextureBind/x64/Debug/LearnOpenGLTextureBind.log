@@ -1,0 +1,4 @@
+﻿  main.cpp
+h:\openglplace\myproject\opengllearn\learnopengltexturebind\main.cpp(100): warning C4101: “nrChannels”: 未引用的局部变量
+  LearnOpenGLTextureBind.vcxproj -> H:\OpenGLPlace\MyProject\OpenGLLearn\x64\Debug\LearnOpenGLTextureBind.exe
+  LearnOpenGLTextureBind.vcxproj -> H:\OpenGLPlace\MyProject\OpenGLLearn\x64\Debug\LearnOpenGLTextureBind.pdb (Full PDB)

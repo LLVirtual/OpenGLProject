@@ -1,0 +1,4 @@
+﻿  main.cpp
+h:\openglplace\myproject\opengllearn\learnopengltexture\main.cpp(106): warning C4101: “nrChanneks”: 未引用的局部变量
+  LearnOpenGLTexture.vcxproj -> H:\OpenGLPlace\MyProject\OpenGLLearn\x64\Debug\LearnOpenGLTexture.exe
+  LearnOpenGLTexture.vcxproj -> H:\OpenGLPlace\MyProject\OpenGLLearn\x64\Debug\LearnOpenGLTexture.pdb (Full PDB)

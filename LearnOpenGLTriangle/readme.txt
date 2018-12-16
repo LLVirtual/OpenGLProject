@@ -1,0 +1,5 @@
+LearnopenGL系类采用的是glfw 的基类工具
+
+OpenGLlearn 系列采用的是freeglut系列的基类工具
+
+只是第一篇来测试配置是否正确是否正确

@@ -1,0 +1,19 @@
+﻿  main.cpp
+h:\openglplace\myproject\opengllearn\learnopenglmeshlib\meshgl.h(108): warning C4244: “参数”: 从“unsigned int”转换到“float”，可能丢失数据
+h:\openglplace\myproject\opengllearn\learnopenglmeshlib\meshgl.h(116): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+h:\openglplace\myproject\opengllearn\learnopenglmeshlib\meshgl.h(172): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\openglplace\myproject\opengllearn\learnopenglmeshlib\meshgl.h(173): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\openglplace\myproject\opengllearn\learnopenglmeshlib\meshgl.h(174): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\openglplace\myproject\opengllearn\learnopenglmeshlib\meshgl.h(177): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\openglplace\myproject\opengllearn\learnopenglmeshlib\meshgl.h(178): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\openglplace\myproject\opengllearn\learnopenglmeshlib\meshgl.h(179): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\openglplace\myproject\opengllearn\learnopenglmeshlib\main.cpp(98): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+h:\openglplace\myproject\opengllearn\learnopenglmeshlib\main.cpp(176): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\openglplace\myproject\opengllearn\learnopenglmeshlib\main.cpp(177): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\openglplace\myproject\opengllearn\learnopenglmeshlib\main.cpp(181): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+h:\openglplace\myproject\opengllearn\learnopenglmeshlib\main.cpp(182): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+h:\openglplace\myproject\opengllearn\learnopenglmeshlib\main.cpp(184): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\openglplace\myproject\opengllearn\learnopenglmeshlib\main.cpp(185): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\openglplace\myproject\opengllearn\learnopenglmeshlib\main.cpp(194): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  LearnOpenGLMeshLib.vcxproj -> H:\OpenGLPlace\MyProject\OpenGLLearn\x64\Debug\LearnOpenGLMeshLib.exe
+  LearnOpenGLMeshLib.vcxproj -> H:\OpenGLPlace\MyProject\OpenGLLearn\x64\Debug\LearnOpenGLMeshLib.pdb (Full PDB)

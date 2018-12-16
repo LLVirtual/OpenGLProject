@@ -1,0 +1,13 @@
+﻿  My_camera.cpp
+h:\openglplace\myproject\opengllearn\learnopengltranslate\my_camera.cpp(227): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+h:\openglplace\myproject\opengllearn\learnopengltranslate\my_camera.cpp(251): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+h:\openglplace\myproject\opengllearn\learnopengltranslate\my_camera.cpp(252): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+h:\openglplace\myproject\opengllearn\learnopengltranslate\my_camera.cpp(322): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\openglplace\myproject\opengllearn\learnopengltranslate\my_camera.cpp(323): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\openglplace\myproject\opengllearn\learnopengltranslate\my_camera.cpp(327): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+h:\openglplace\myproject\opengllearn\learnopengltranslate\my_camera.cpp(328): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+h:\openglplace\myproject\opengllearn\learnopengltranslate\my_camera.cpp(329): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\openglplace\myproject\opengllearn\learnopengltranslate\my_camera.cpp(330): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\openglplace\myproject\opengllearn\learnopengltranslate\my_camera.cpp(332): warning C4305: “初始化”: 从“double”到“float”截断
+  LearnOpenGLTranslate.vcxproj -> H:\OpenGLPlace\MyProject\OpenGLLearn\x64\Debug\LearnOpenGLTranslate.exe
+  LearnOpenGLTranslate.vcxproj -> H:\OpenGLPlace\MyProject\OpenGLLearn\x64\Debug\LearnOpenGLTranslate.pdb (Full PDB)

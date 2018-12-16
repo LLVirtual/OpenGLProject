@@ -1,0 +1,11 @@
+﻿  main.cpp
+h:\openglplace\myproject\opengllearn\learnopenglbasiclight\main.cpp(160): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+h:\openglplace\myproject\opengllearn\learnopenglbasiclight\main.cpp(256): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\openglplace\myproject\opengllearn\learnopenglbasiclight\main.cpp(257): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\openglplace\myproject\opengllearn\learnopenglbasiclight\main.cpp(261): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+h:\openglplace\myproject\opengllearn\learnopenglbasiclight\main.cpp(262): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+h:\openglplace\myproject\opengllearn\learnopenglbasiclight\main.cpp(264): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\openglplace\myproject\opengllearn\learnopenglbasiclight\main.cpp(265): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\openglplace\myproject\opengllearn\learnopenglbasiclight\main.cpp(274): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  LearnOpenGLBasicLight.vcxproj -> H:\OpenGLPlace\MyProject\OpenGLLearn\x64\Debug\LearnOpenGLBasicLight.exe
+  LearnOpenGLBasicLight.vcxproj -> H:\OpenGLPlace\MyProject\OpenGLLearn\x64\Debug\LearnOpenGLBasicLight.pdb (Full PDB)

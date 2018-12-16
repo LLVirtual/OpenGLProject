@@ -1,0 +1,14 @@
+﻿  main.cpp
+h:\openglplace\myproject\opengllearn\learnopenglmaterial\main.cpp(160): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+h:\openglplace\myproject\opengllearn\learnopenglmaterial\main.cpp(185): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\openglplace\myproject\opengllearn\learnopenglmaterial\main.cpp(186): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\openglplace\myproject\opengllearn\learnopenglmaterial\main.cpp(187): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\openglplace\myproject\opengllearn\learnopenglmaterial\main.cpp(275): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\openglplace\myproject\opengllearn\learnopenglmaterial\main.cpp(276): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\openglplace\myproject\opengllearn\learnopenglmaterial\main.cpp(280): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+h:\openglplace\myproject\opengllearn\learnopenglmaterial\main.cpp(281): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+h:\openglplace\myproject\opengllearn\learnopenglmaterial\main.cpp(283): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\openglplace\myproject\opengllearn\learnopenglmaterial\main.cpp(284): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\openglplace\myproject\opengllearn\learnopenglmaterial\main.cpp(293): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  LearnOpenGLMaterial.vcxproj -> H:\OpenGLPlace\MyProject\OpenGLLearn\x64\Debug\LearnOpenGLMaterial.exe
+  LearnOpenGLMaterial.vcxproj -> H:\OpenGLPlace\MyProject\OpenGLLearn\x64\Debug\LearnOpenGLMaterial.pdb (Full PDB)
